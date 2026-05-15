@@ -1,0 +1,8 @@
+README.md
+setup.py
+src/__init__.py
+tahsin.egg-info/PKG-INFO
+tahsin.egg-info/SOURCES.txt
+tahsin.egg-info/dependency_links.txt
+tahsin.egg-info/requires.txt
+tahsin.egg-info/top_level.txt

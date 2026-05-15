@@ -1,0 +1,11 @@
+Metadata-Version: 2.4
+Name: tahsin
+Version: 0.1.1.1
+Author: Tahsin
+Author-email: tahsinhossen3@gmail.com
+Requires-Dist: numpy
+Requires-Dist: pandas
+Requires-Dist: seaborn
+Dynamic: author
+Dynamic: author-email
+Dynamic: requires-dist
